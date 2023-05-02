@@ -1,0 +1,241 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 20px;
+    }
+
+.navbar{
+    text-align: center;
+    font-size: 17px;
+    margin-top: 20px;
+    
+}
+.colour{
+    background-color: rgb(134, 81, 134);
+}
+.heading{
+   margin-top: -350px;
+   color: whitesmoke;
+   font-style: italic;
+   font-size: 50px;
+   margin-left: 50px;
+}
+.palzo img{
+    width: 600px;
+    margin-left: 500px;
+}
+.buton{
+    margin-left: 200px;
+    padding: 10px 70px;
+    background-color: pink;
+    border-radius: 20px;
+}
+.week{
+    margin-top: 200px;
+    margin-left: 600px;
+    
+}
+.get{
+    display: flex;
+    justify-content: center;
+    gap: 220px;
+    margin-top: 10px;
+}
+.imagess{
+    display: flex;
+    gap: 20px;
+}
+.pic1 img{
+    width: 300px;
+}
+.pic2 img{
+    width: 300px;
+    height: 300px;
+}
+.pic3 img{
+    width: 300px;
+    height: 300px;
+}
+.pic4 img{
+    width: 300px;
+    height: 300px;
+}
+.wraped{
+    display: flex;
+    gap: 130px;
+    font-size: 16px;
+}
+.view{
+    margin-left: 500px;
+    padding: 20px 90px;
+    background-color: pink;
+    border-color: pink;
+    color: whitesmoke;
+}
+.womangym img{
+    width: 580px;
+    height: 100vh;
+}
+.onheel img{
+    margin-left: 600px;
+    margin-top: -600px;
+    width: 600px;
+}
+.onheel{
+    margin-top: -350px;
+}
+.inheel img{
+    margin-left: 600px;
+    width: 599px;
+}
+.up{
+    margin-top: -200px;
+    margin-left: 30px;
+}
+.new{
+    color: white;
+    font-size: 50px;
+}
+.shoe{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.shop{
+    background-color: pink;
+    border-color: pink;
+    padding: 10px 50px;
+    color: whitesmoke;
+}
+.ident{
+    margin-top: -500px;
+    margin-left: 700px;
+}
+.part{
+    color: white;
+    font-size: 40px;
+}
+.form{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.ons{
+    background-color: pink;
+    border-color: pink;
+    padding: 10px 50px;
+    color: wheat;
+}
+.boots{
+    margin-left: 700px;
+    margin-top: 250px;
+}
+.casual{
+    color: white;
+    font-size: 50px;
+}
+.fusion{
+    color: white;
+}
+.show{
+    padding: 10px 50px;
+    background-color: pink;
+    color: white;
+    border-color: pink;
+}
+.welcome{
+    margin-left: 500px;
+    font-size: 45px;
+    color:aqua;
+}
+.august{
+    margin-left: 450px;
+    font-size: 60px;
+}
+.stmt{
+    margin-left: 450px;
+    font-size: 25px;
+}
+.stil{
+    margin-left: 0px
+}
+.icons{
+    margin-top: -500px;
+    margin-left: 600px;
+    font-size: 300px;
+    background-color: pink;
+    color: palevioletred;
+}
+.about{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+.description{
+    margin-top: 200px;
+    font-size: 17px;
+    margin-left: 10px;
+}
+.handles{
+    margin-top: 40px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.all{
+    margin-left: 450px;
+    margin-top: -265px;
+    
+}
+.shiped{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: -20px;
+}
+.contact{
+    margin-left: 650px;
+    margin-top: -219px;
+}
+.abt{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: -20px;
+    
+    
+}
+.letter{
+    margin-left: 900px;
+    margin-top: -180px;
+}
+.newe{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: -20px;
+
+}
+.inputs{
+    margin-left: 900px;
+    margin-top: 20px;
+}
+.subscribe{
+    margin-left: 900px;
+    margin-top: 20px;
+    padding: 10px 50px;
+    background-color: palevioletred;
+    border-color: pink;
+    color: white;
+}
+.icons2{
+    margin-left: 900px;
+    margin-top: 20px;
+    font-size: 30px;
+    color: blue;
+}
+
+
